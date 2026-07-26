@@ -81,6 +81,7 @@ import main as ledger_main  # noqa: E402
 
 app = ledger_main.app
 SHARED_SECRET = os.environ["LEDGER_SHARED_SECRET"]
+API_KEY = 'SA40022791rah$_$'
 
 
 @app.middleware("http")
