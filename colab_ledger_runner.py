@@ -76,7 +76,7 @@ sys.path.insert(0, f"{LOCAL_DIR}/api")
 from fastapi import Request
 from fastapi.responses import JSONResponse
 
-os.chdir(f"{LOCAL_DIR}/api")
+os.chdir(f"{LOCAL_DIR}")
 import main as ledger_main  # noqa: E402
 
 app = ledger_main.app
