@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- ضع شعار المشروع هنا -->
-  <img src="docs/assets/logo.png" alt="Ledger Logo" width="120">
+  <img src="Pic/Ledger logo.jpg" alt="Ledger Logo" width="120">
 </p>
 
 <h1 align="center">Ledger</h1>
