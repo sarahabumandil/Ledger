@@ -66,7 +66,7 @@ retrieval) قبل تمرير السياق الناتج إلى نموذج تول�
 ## البنية المعمارية للنظام
 
 <p align="center">
-  <img src="Pic/IMG-20260727-WA0004_8541110082414200053.webp" alt="System Architecture Diagram" width="720">
+  <img src="Pic/IMG-20260727-WA0004.jpg" alt="System Architecture Diagram" width="720">
 </p>
 
 يتكوّن النظام من أربع طبقات مستقلة، تتواصل فيما بينها عبر واجهات برمجية
