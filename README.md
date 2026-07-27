@@ -66,8 +66,7 @@ retrieval) قبل تمرير السياق الناتج إلى نموذج تول�
 ## البنية المعمارية للنظام
 
 <p align="center">
-  <!-- ضع مخطط البنية المعمارية هنا -->
-  <img src="docs/assets/architecture-diagram.png" alt="System Architecture Diagram" width="720">
+  <img src="Pic/IMG-20260727-WA0004_8541110082414200053.webp" alt="System Architecture Diagram" width="720">
 </p>
 
 يتكوّن النظام من أربع طبقات مستقلة، تتواصل فيما بينها عبر واجهات برمجية
@@ -206,10 +205,8 @@ curl -X POST https://your-deployment.vercel.app/api/query \
 ## لقطات من الواجهة
 
 <p align="center">
-  <!-- ضع لقطة شاشة للواجهة الرئيسية هنا -->
-  <img src="docs/assets/ui-screenshot.png" alt="Ledger Interface Screenshot" width="720">
+  <img src="Pic/Ledger interface.jpg" alt="Ledger Interface Screenshot" width="720">
 </p>
-
 ---
 
 ## خارطة الطريق
